@@ -1,1 +1,1 @@
-the shell commands
+redirection 
